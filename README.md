@@ -1,3 +1,3 @@
-# module2project
+# My Projects
 <br>
-This is a repository for my coursera course from John Hopkin University
+Feel free to check it out!
